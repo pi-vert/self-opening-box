@@ -17,12 +17,12 @@ A prendre en compte:
 
 
 # Budget 
-
+Par boite
 | Composant                    | Prix (CHF)
 | ---------------------------- | ---------- 
 | [ATmega328P Nano V3](https://www.banggood.com/Geekcreit-ATmega328P-Nano-V3-Controller-Board-Improved-Version-Module-Development-Board-p-940937.html?rmmds=myorder&cur_warehouse=CN) | 1,68
 | [Ultrasonic Module HC-SR04](https://www.banggood.com/Wholesale-Geekcreit-Ultrasonic-Module-HC-SR04-Distance-Measuring-Ranging-Transducer-Sensor-DC-5V-2-450cm-p-40313.html?rmmds=myorder&cur_warehouse=CN)  | 1,28
 | [ Micro Servo ](https://www.banggood.com/6PCS-SG90-Mini-Analog-Gear-Micro-Servo-9g-For-RC-Airplane-Helicopter-p-1078614.html?rmmds=myorder&cur_warehouse=CN) |  1,32              
 | [ MP3 player](http://www.banggood.com/Geekcreit-DFPlayer-Mini-MP3-Player-Module-MP3-Voice-Audio-Decoder-Board-For-Supporting-TF-Card-U-Disk-IOSerial-PortAD-p-969191.html?akmClientCountry=CH&rmmds=cart_middle_products&cur_warehouse=CN) | 1,48 
-
+| TOTAL | 5,76
 
